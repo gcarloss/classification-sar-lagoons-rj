@@ -29,22 +29,26 @@ The methodology focuses on multi-temporal analysis to identify water surfaces by
 ## Context
 This work was developed as part of academic research at the **Federal University of Rio de Janeiro (UFRJ)**.
 
-## License & Citation
+## 📜 License & Citation
 
 This project is open-source under the **MIT License**. You are free to use, modify, and distribute the code for any purpose. 
 
-However, if this methodology or code is used in academic research or professional projects, please provide attribution by citing the following work:
+If this methodology or code is used in academic research or professional projects, please provide attribution by citing our published paper:
 
 **Reference:**
-> [Seu Nome Completo], (2026). *Multitemporal Classification of Water Bodies in the Lagoon Complexes of the State of Rio de Janeiro (Brazil) Using SAR Time Series*. GitHub Repository: `[Link do seu repositório aqui]`
+> da Silva, G.C.; de Castro Porto Costa, E.; de Carvalho, L.A.S. Multitemporal Classification of Water Bodies in the Lagoon Complexes of the State of Rio de Janeiro, Brazil, Using SAR Time Series. *Remote Sens.* **2026**, *18*, 1005. https://doi.org/10.3390/rs18071005
 
 **BibTeX for researchers:**
 ```bibtex
-@software{yourname2026sar,
-  title={Multitemporal Classification of Water Bodies in the Lagoon Complexes of the State of Rio de Janeiro (Brazil) Using SAR Time Series},
-  author={[Seu Sobrenome], [Seu Nome]},
-  year={2026},
-  publisher={GitHub},
-  journal={GitHub repository},
-  howpublished={\url{[https://github.com/](https://github.com/)[seu-usuario]/[nome-do-repo]}}
+@Article{rs18071005,
+  AUTHOR = {da Silva, Gabriel Carlos and de Castro Porto Costa, Evelyn and de Carvalho, Lino Augusto Sander},
+  TITLE = {Multitemporal Classification of Water Bodies in the Lagoon Complexes of the State of Rio de Janeiro, Brazil, Using SAR Time Series},
+  JOURNAL = {Remote Sensing},
+  VOLUME = {18},
+  YEAR = {2026},
+  NUMBER = {7},
+  ARTICLE-NUMBER = {1005},
+  URL = {[https://www.mdpi.com/2072-4292/18/7/1005](https://www.mdpi.com/2072-4292/18/7/1005)},
+  ISSN = {2072-4292},
+  DOI = {10.3390/rs18071005}
 }
